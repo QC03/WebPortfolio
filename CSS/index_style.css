@@ -1,0 +1,9 @@
+.background {
+    height: 100vh;
+    background-image: url('/img/background.png');
+  }
+
+body {
+    margin: 0;
+    text-align: center;
+  }
