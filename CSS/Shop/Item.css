@@ -1,0 +1,33 @@
+
+
+.shopItems {
+    display: flex;
+}
+
+.itemsBox {
+    display: block;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.item {
+
+    padding-right: 26vh;
+    height: 30vh;
+
+    border: 1px;
+    border-radius: 3%;
+    border-color: white;
+    border-style: solid;
+
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-bottom: 10vh;
+
+    text-align: left;
+}
+
+.itemList {
+
+    display: flex;
+}
